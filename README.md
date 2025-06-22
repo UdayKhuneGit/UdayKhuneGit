@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **khuneuday@gmail.com**
 
-- ⚡ Fun fact **I think i am funny!!!**
+- **I think i am funny!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
