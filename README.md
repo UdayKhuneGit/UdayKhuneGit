@@ -66,6 +66,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaykhunegit&theme=tokyonight&hide_border=true" />
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udaykhunegit&" alt="udaykhunegit" /></p>
+
 ---
 
 ### ☕ Support Me
