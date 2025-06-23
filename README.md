@@ -5,10 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=udaykhunegit&label=Profile%20views&color=blueviolet&style=flat-square" alt="udaykhunegit" />
 </p>
 
+---
+
 ### 🧠 About Me
 
 - 📧 Reach me at: **khuneuday@gmail.com**
 - 😄 Fun fact: *I think I'm funny!!!*
+
+---
 
 ### 🔗 Connect with Me
 
@@ -27,25 +31,42 @@
   </a>
 </p>
 
+---
+
 ### 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,react,nodejs,express,mongodb,mysql,postgres,html,css,bootstrap,aws,docker,kubernetes,linux,git,figma,postman,unreal,unity" />
 </p>
 
-### 📊 GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaykhunegit&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaykhunegit&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykhunegit&layout=pie&theme=tokyonight&hide_border=true" />
-</div>
-
-### 🏆 Achievements
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=udaykhunegit&theme=onedark&row=1&column=8" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykhunegit&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=udaykhunegit&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaykhunegit&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ### ☕ Support Me
 
