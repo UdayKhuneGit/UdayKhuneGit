@@ -60,7 +60,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=udaykhunegit&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
-</table>
+</table><br/><br/>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaykhunegit&theme=tokyonight&hide_border=true" />
