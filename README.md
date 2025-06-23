@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Uday Khune</h1>
+<h1 align="center">👋 Hellooo!!!!, I'm Uday Khune</h1>
 <h3 align="center">💻 A passionate Software Developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 <br/>
 
-### 🧠 About Me
+### 🧠 About Me...
 
 - 📧 Reach me at: **khuneuday@gmail.com**
 - 😄 Fun fact: *I think I'm funny!!!*
