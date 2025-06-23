@@ -38,8 +38,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=udaykhunegit&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaykhunegit&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykhunegit&layout=pie&theme=tokyonight&hide_border=true" /></div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykhunegit&layout=pie&theme=tokyonight&hide_border=true" />
+</div>
 
 ### 🏆 Achievements
 
