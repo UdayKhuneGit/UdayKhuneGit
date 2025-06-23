@@ -1,14 +1,18 @@
-<h1 align="center">Hi 👋, I'm Uday Khune</h1>
-<h3 align="center">A passionate Software Developer from India 🇮🇳</h3>
+<h1 align="center">👋 Hi, I'm Uday Khune</h1>
+<h3 align="center">💻 A passionate Software Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=udaykhunegit&label=Profile%20views&color=blueviolet&style=flat-square" alt="udaykhunegit" />
 </p>
 
+<br/>
+
 ### 🧠 About Me
 
 - 📧 Reach me at: **khuneuday@gmail.com**
 - 😄 Fun fact: *I think I'm funny!!!*
+
+<br/>
 
 ### 🔗 Connect with Me
 
@@ -27,11 +31,15 @@
   </a>
 </p>
 
+<br/>
+
 ### 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,react,nodejs,express,mongodb,mysql,postgres,html,css,bootstrap,aws,docker,kubernetes,linux,git,figma,postman,unreal,unity" />
 </p>
+
+<br/>
 
 ### 🏆 GitHub Trophies
 
@@ -39,13 +47,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=udaykhunegit&theme=onedark&row=1&column=8" />
 </p>
 
+<br/>
+
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaykhunegit&show_icons=true&theme=radical&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykhunegit&layout=compact&theme=radical&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaykhunegit&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=udaykhunegit&show_icons=true&theme=radical&hide_border=true" height="200em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykhunegit&layout=compact&theme=radical&hide_border=true" height="200em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaykhunegit&theme=radical&hide_border=true" height="200em" />
 </div>
+
+<br/>
 
 ### ☕ Support Me
 
