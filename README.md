@@ -10,7 +10,7 @@
 ### 🧠 About Me...
 
 - 📧 Reach me at: **khuneuday@gmail.com**
-- 😄 Fun fact: *I think I'm funny!!!*
+- 😄 Fun fact: *A cloud weighs around a million tonnes.!!!*
 
 <br/>
 
