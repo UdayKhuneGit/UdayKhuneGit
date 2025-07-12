@@ -41,7 +41,7 @@
 
 <br/>
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies ---
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=udaykhunegit&theme=onedark&row=1&column=8" />
